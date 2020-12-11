@@ -1,3 +1,4 @@
+<?php 
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,9 +33,7 @@
 <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@14.0.0/dist/smooth-scroll.polyfills.min.js"></script>
 </head>
 <body>
-  <?php
-   echo “This is PHP code”;
-   ?>
+  
     <header> 
         <h2> <a href="#"> <img src="imgs/ccell_logo.png" height="80px" width="80px"> </a></h2>
         <nav>
@@ -273,3 +272,4 @@ s                </p>
 
 </body>
 </html>
+?>
