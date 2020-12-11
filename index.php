@@ -1,5 +1,5 @@
 <?php 
-<!DOCTYPE html>
+echo "<!DOCTYPE html>
 <html>
 <head>
     
@@ -271,5 +271,5 @@ s                </p>
                 </script>
 
 </body>
-</html>
+</html>";
 ?>
